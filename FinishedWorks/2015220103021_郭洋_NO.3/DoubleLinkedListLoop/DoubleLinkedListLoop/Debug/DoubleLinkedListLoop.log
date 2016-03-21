@@ -1,0 +1,39 @@
+﻿生成启动时间为 2016/3/14 23:18:50。
+     1>项目“F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\DoubleLinkedListLoop\DoubleLinkedListLoop.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\DoubleLinkedListLoop.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Tools\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DoubleLinkedListLoop.cpp
+         DoubleLinkedListLoop.cpp
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(9): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(154): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\2015220103021_郭洋_no.3\doublelinkedlistloop\doublelinkedlistloop\doublelinkedlistloop.cpp(162): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DoubleLinkedListLoop.exe.embed.manifest.res" Debug\DoubleLinkedListLoop_manifest.rc 
+       Link:
+         D:\Tools\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\Debug\DoubleLinkedListLoop.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DoubleLinkedListLoop.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\Debug\DoubleLinkedListLoop.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\Debug\DoubleLinkedListLoop.lib" /MACHINE:X86 Debug\DoubleLinkedListLoop.exe.embed.manifest.res
+         Debug\DoubleLinkedListLoop.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DoubleLinkedListLoop.exe.embed.manifest" /manifest Debug\DoubleLinkedListLoop.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DoubleLinkedListLoop.vcxproj -> F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\Debug\DoubleLinkedListLoop.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DoubleLinkedListLoop.unsuccessfulbuild”。
+         正在对“Debug\DoubleLinkedListLoop.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Work\Data Structure and Algorithm\2015220103021_郭洋_NO.3\DoubleLinkedListLoop\DoubleLinkedListLoop\DoubleLinkedListLoop.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.39
