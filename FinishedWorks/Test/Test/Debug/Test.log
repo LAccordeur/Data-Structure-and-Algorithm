@@ -1,0 +1,58 @@
+﻿生成启动时间为 2016/3/26 19:47:55。
+     1>项目“F:\Work\Data Structure and Algorithm\Test\Test\Test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Test.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Tools\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TEST.cpp
+         TEST.cpp
+     1>f:\work\data structure and algorithm\test\test\test.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(58): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(302): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(304): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\tools\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\work\data structure and algorithm\test\test\test.cpp(116): warning C4715: “check_filenull”: 不是所有的控件路径都返回值
+     1>f:\work\data structure and algorithm\test\test\test.cpp(209): warning C4715: “ListLocate”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Tools\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Work\Data Structure and Algorithm\Test\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Work\Data Structure and Algorithm\Test\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Work\Data Structure and Algorithm\Test\Debug\Test.lib" /MACHINE:X86 Debug\Test.exe.embed.manifest.res
+         Debug\TEST.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Test.exe.embed.manifest" /manifest Debug\Test.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Test.vcxproj -> F:\Work\Data Structure and Algorithm\Test\Debug\Test.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Test.unsuccessfulbuild”。
+         正在对“Debug\Test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Work\Data Structure and Algorithm\Test\Test\Test.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.59
